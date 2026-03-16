@@ -25,8 +25,6 @@ import kotlinx.serialization.Serializable
 import kotlinx.serialization.json.Json
 import java.util.Locale
 import java.util.concurrent.ConcurrentHashMap
-import kotlin.time.Duration.Companion.hours
-import kotlin.time.DurationUnit
 
 object VeluneCanvas {
     private const val BASE_URL = "https://artwork-archivetune.koiiverse.cloud/"
