@@ -88,7 +88,7 @@ object Updater {
         cachedEtag: String?,
     ): ReleasesNetworkResult {
         val response: HttpResponse =
-            client.get("https://api.github.com/repos/Vidya-Inc/Echofy/releases?per_page=$perPage") {
+            client.get("https://api.github.com/repos/Vidya-Inc/Echofy-Android/releases?per_page=$perPage") {
                 headers {
                     append("Accept", "application/vnd.github+json")
                     append("User-Agent", "Echofy")
@@ -143,7 +143,7 @@ object Updater {
     suspend fun getCommitHistory(count: Int = 20, branch: String = "dev"): Result<List<GitCommit>> =
         runCatching {
             val response =
-                client.get("https://api.github.com/repos/Vidya-Inc/Echofy/commits?sha=$branch&per_page=$count")
+                client.get("https://api.github.com/repos/Vidya-Inc/Echofy-Android/commits?sha=$branch&per_page=$count")
                     .bodyAsText()
             val jsonArray = JSONArray(response)
             val commits = mutableListOf<GitCommit>()

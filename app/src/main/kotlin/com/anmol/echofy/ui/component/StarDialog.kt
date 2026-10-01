@@ -54,7 +54,7 @@ fun StarDialog(
         text = {
             Column {
                 Text(
-                    text = "Hey there! I\'m Vidya-Inc, the developer of Echofy. I have been putting a lot of love into making this app better every day. \n\nIf you enjoy using Echofy, you can support its development by giving the project a star on GitHub — it really helps and keeps me motivated to keep improving it!\n\nThanks a bunch for your support and for being part of this journey!",
+                    text = "Hey there! Echofy is built with love by VIDYA. A lot of care goes into making this app better every day. \n\nIf you enjoy using Echofy, you can support its development by giving the project a star on GitHub — it really helps and keeps the team motivated to keep improving it!\n\nThanks a bunch for your support and for being part of this journey!",
                     style = MaterialTheme.typography.bodyMedium,
                 )
             }
@@ -65,7 +65,7 @@ fun StarDialog(
                     try {
                         val intent = Intent(
                             Intent.ACTION_VIEW,
-                            Uri.parse("https://github.com/Vidya-Inc")
+                            Uri.parse("https://github.com/Vidya-Inc/Echofy-Android")
                         )
                         context.startActivity(intent)
                     } catch (e: Exception) {
