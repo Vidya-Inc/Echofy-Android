@@ -96,11 +96,11 @@
 
 ## Queue Persistence Rules
 # Keep queue-related classes to prevent serialization issues in release builds
--keep class com.nikhil.yt.models.PersistQueue { *; }
--keep class com.nikhil.yt.models.PersistPlayerState { *; }
--keep class com.nikhil.yt.models.QueueData { *; }
--keep class com.nikhil.yt.models.QueueType { *; }
--keep class com.nikhil.yt.playback.queues.** { *; }
+-keep class com.anmol.echofy.models.PersistQueue { *; }
+-keep class com.anmol.echofy.models.PersistPlayerState { *; }
+-keep class com.anmol.echofy.models.QueueData { *; }
+-keep class com.anmol.echofy.models.QueueType { *; }
+-keep class com.anmol.echofy.playback.queues.** { *; }
 
 # Keep serialization methods for queue persistence
 -keepclassmembers class * implements java.io.Serializable {

@@ -1,4 +1,4 @@
-import com.nikhil.yt.betterlyrics.TTMLParser
+import com.anmol.echofy.betterlyrics.TTMLParser
 
 fun main(args: Array<String>) {
     val ttml = """

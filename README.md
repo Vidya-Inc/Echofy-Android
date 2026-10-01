@@ -1,110 +1,47 @@
-
 <div align="center">
 
- <img src="https://raw.githubusercontent.com/nikhilvishwakarma00/Velune/main/fastlane/metadata/android/en-US/images/icon.png" width="110" />
+<img src="https://raw.githubusercontent.com/Vidya-Inc/Echofy-Android/main/fastlane/metadata/android/en-US/images/icon.png" width="110" />
 
 </div>
 
-# 🌌 Velune
+# 🎵 Echofy
+
 <div align="center">
-
-<pre>
-██╗   ██╗███████╗██╗     ██╗   ██╗███╗   ██╗███████╗
-██║   ██║██╔════╝██║     ██║   ██║████╗  ██║██╔════╝
-██║   ██║█████╗  ██║     ██║   ██║██╔██╗ ██║█████╗
-╚██╗ ██╔╝██╔══╝  ██║     ██║   ██║██║╚██╗██║██╔══╝
- ╚████╔╝ ███████╗███████╗╚██████╔╝██║ ╚████║███████╗
-  ╚═══╝  ╚══════╝╚══════╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝
-</pre>
-
-</div>
 
 ### 🎧 The YouTube Music app you always wanted
 
-🚫 No Ads • 💰 No Subscription • ⚡ Full Control  
+🚫 No Ads • 💰 No Subscription • ⚡ Full Control
 
-<div align="center">
-
-![Release](https://img.shields.io/github/v/release/nikhilvishwakarma00/Velune?style=for-the-badge&logo=github&logoColor=white&labelColor=18181B&color=3B82F6)
-![Downloads](https://img.shields.io/github/downloads/nikhilvishwakarma00/Velune/total?style=for-the-badge&logo=github&logoColor=white&labelColor=18181B&color=10B981)
-![Stars](https://img.shields.io/github/stars/nikhilvishwakarma00/Velune?style=for-the-badge&logo=github&logoColor=white&labelColor=18181B&color=F59E0B)
-![License](https://img.shields.io/github/license/nikhilvishwakarma00/Velune?style=for-the-badge&labelColor=18181B&color=EF4444)
+![Release](https://img.shields.io/github/v/release/Vidya-Inc/Echofy-Android?style=for-the-badge&logo=github&logoColor=white&labelColor=18181B&color=3B82F6)
+![Downloads](https://img.shields.io/github/downloads/Vidya-Inc/Echofy-Android/total?style=for-the-badge&logo=github&logoColor=white&labelColor=18181B&color=10B981)
+![Stars](https://img.shields.io/github/stars/Vidya-Inc/Echofy-Android?style=for-the-badge&logo=github&logoColor=white&labelColor=18181B&color=F59E0B)
+![License](https://img.shields.io/github/license/Vidya-Inc/Echofy-Android?style=for-the-badge&labelColor=18181B&color=EF4444)
 
 <br>
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Architecture](https://img.shields.io/badge/Architecture-MVVM-52525B?style=for-the-badge)
 
 </div>
 
-
-<br>
-<hr>
-
-⚠️ Official Velune Notice
-
-This is the official Velune repository, maintained by Nikhil Vishwakarma.
-
-Official source code & releases:
-https://github.com/nikhilvishwakarma00/Velune
-
-Please be cautious of third-party websites or downloads using the Velune name that are not linked from this repository.
-
-In particular, https://velune.cc  is not operated or maintained by me, and I am not affiliated with that website.
-
-For your safety, download Velune only from the official GitHub releases
-
-<hr>
-<br>
+---
 
 ## 📥 Download Now
 
-
 <div align="center">
 
-<h2>Stable Release</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th align="center">Obtainium</th>
-      <th align="center">IzzyOnDroid</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">
-        <a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/nikhilvishwakarma00/Velune">
-          <img src="https://raw.githubusercontent.com/ImranR98/Obtainium/main/assets/graphics/badge_obtainium.png" height="50" alt="Get Velune on Obtainium">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://apt.izzysoft.de/fdroid/index/apk/com.nikhil.yt">
-          <img src="assets/IzzyOnDroidButtonBorder.svg" height="50" alt="Get Velune on IzzyOnDroid">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <th align="center" colspan="2">GitHub</th>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-        <a href="https://github.com/nikhilvishwakarma00/Velune/releases/latest">
-          <img src="assets/badge_github.png" height="50" alt="Get Velune on GitHub">
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+| GitHub Releases | Obtainium |
+| :---: | :---: |
+| <a href="https://github.com/Vidya-Inc/Echofy-Android/releases/latest"><img src="assets/badge_github.png" height="50" alt="Get Echofy on GitHub"></a> | <a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/Vidya-Inc/Echofy-Android"><img src="https://raw.githubusercontent.com/ImranR98/Obtainium/main/assets/graphics/badge_obtainium.png" height="50" alt="Get Echofy on Obtainium"></a> |
 
 </div>
 
+---
 
-## 🚀 Why Velune?
+## 🚀 Why Echofy?
 
-Velune is not just another music player — it's a **complete reimagination of YouTube Music**.
+Echofy is not just another music player — it's a **complete reimagination of YouTube Music**.
 
 * ⚡ **Faster** than the official app
 * 🎵 Built for audiophiles & power users
@@ -121,10 +58,10 @@ Velune is not just another music player — it's a **complete reimagination of Y
 
 Experience lyrics like never before:
 
-- Word-by-word sync  
-- Smooth animations  
-- Translation support  
-- Fully immersive playback  
+- Word-by-word sync
+- Smooth animations
+- Translation support
+- Fully immersive playback
 
 ---
 
@@ -145,33 +82,32 @@ Experience lyrics like never before:
 
 </div>
 
-
-
 ---
 
 ## ✨ Features
 
 ### 🎵 Core Experience
-- Ad-Free Playback  
-- Full Library Sync  
-- Offline Caching (Encrypted)  
-- Background Playback  
+- Ad-Free Playback
+- Full Library Sync
+- Offline Caching (Encrypted)
+- Background Playback
 
 ### 🔊 Audio Engine
-- Gapless Playback  
-- Crossfade Engine  
-- Silence Skipping  
-- Loudness Normalization (EBU R128)  
-- Tempo & Pitch Control  
-- System EQ Integration  
+- Gapless Playback
+- Crossfade Engine
+- Silence Skipping
+- Loudness Normalization (EBU R128)
+- Tempo & Pitch Control
+- System EQ Integration
 
 ### 🎨 UI & Discovery
-- Material You (Dynamic Colors)  
-- Synced Lyrics + Translation  
-- Discord Rich Presence  
-- Personalized Home Feed  
-- Year in Review Stats  
-- Custom Animated Loader  
+- Material You (Dynamic Colors)
+- Synced Lyrics + Translation
+- Discord Rich Presence
+- Personalized Home Feed
+- Year in Review Stats
+- Custom Animated Loader
+- Home Screen Widget
 
 ---
 
@@ -179,9 +115,9 @@ Experience lyrics like never before:
 
 Built using **modern Android engineering principles**:
 
-- MVVM + Clean Architecture  
-- Unidirectional Data Flow (UDF)  
-- Modular & scalable codebase  
+- MVVM + Clean Architecture
+- Unidirectional Data Flow (UDF)
+- Modular & scalable codebase
 
 ---
 
@@ -203,7 +139,7 @@ Built using **modern Android engineering principles**:
 ## 📂 Project Structure
 
 ```bash
-velune/
+Echofy-Android/
 ├── app/
 ├── innertube/
 ├── lrclib/
@@ -211,78 +147,54 @@ velune/
 ├── canvas/
 ├── lastfm/
 ├── kugou/
+├── betterlyrics/
+└── simpmusic/
 ```
 
-Getting Started \
-Requirements\
-Android Studio Ladybug+\
-JDK 17
-Android SDK 34+ \
-Run Locally\
-Bash
+## 🏁 Getting Started
+
+**Requirements**
+- Android Studio Ladybug+
+- JDK 21
+- Android SDK 36+
+
+**Run locally**
+```bash
+git clone https://github.com/Vidya-Inc/Echofy-Android.git
+cd Echofy-Android
 ```
-git clone https://github.com/nikhilvishwakarma00/Velune.git\
-cd Velune\
+Open in Android Studio → Sync → Run ▶
 
-```
-Open in Android Studio → Sync → Run ▶ \
-📦 Download
- 
-
-🚀 Get Latest Release⁠ 
-
--------------------------------------------------------------------------
+---
 
 ## 💬 Community
 
-Have a feature request, found a bug,
-or just want to share your favorite music setups? Join the official Velune community!
+Have a feature request, found a bug, or just want to share your favorite music setups?
 
-* *Discord:* [Join the Velune Server](https://discord.gg/cJNHTdpP6H)
-* *GitHub Discussions:* [Open a Discussion](https://github.com/nikhilvishwakarma00/Velune/discussions)
+* *GitHub Issues:* [Report a Bug](https://github.com/Vidya-Inc/Echofy-Android/issues)
+* *GitHub Discussions:* [Open a Discussion](https://github.com/Vidya-Inc/Echofy-Android/discussions)
 
+---
 
+## 🙌 Credits
 
---------------------------------------------------------------------------------------------------------------
-
-
-🙌 Credits\
 Huge respect to these projects:
 
-Archivetune -base framework
+- **Archivetune** — base framework
+- **Metrolist**
+- **InnerTune**
+- **Kizzy**
+- **SimpMusic**
+- **BetterLyrics**
 
-Metrolist
+## ⚖️ Legal
 
-InnerTune
+Echofy is an independent client and is not affiliated with YouTube or Google.
+Please support artists through official platforms ❤️
+Licensed under **GPL-3.0** — see the [LICENSE](LICENSE) file for details.
 
-Kizzy
+---
 
-SimpMusic
-
-BetterLyrics
-
-⚖️ Legal
-Velune is an independent client and is not affiliated with YouTube or Google.\
-Please support artists through official platforms ❤️\
-Licensed under GPL-3.0
- 
-
-💙 Built with passion by Nikhil\
-⭐ Star the repo if Velune impressed you\
+💙 Built with passion by **Vidya-Inc** ([@Vidya-Inc](https://github.com/Vidya-Inc)) — the team behind [VIDYA](https://github.com/Vidya-Inc/vidya-frontend)
+⭐ Star the repo if Echofy impressed you
 🚀 Help it reach more people
-
-## 🔗 Star History
-
-<div align="center">
-  <a href="https://star-history.com/nikhilvishwakarma00/velune&Date">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=nikhilvishwakarma00/velune&type=Date&theme=dark" />
-      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=nikhilvishwakarma00/velune&type=Date" />
-      <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=nikhilvishwakarma00/velune&type=Date" />
-    </picture>
-  </a>
-
-  <br/>
-  <br/><br/>
-</div>
- 

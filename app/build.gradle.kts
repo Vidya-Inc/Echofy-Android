@@ -16,11 +16,11 @@ if (localPropertiesFile.exists()) {
 }
 
 android {
-    namespace = "com.nikhil.yt"
+    namespace = "com.anmol.echofy"
     compileSdk = 36
 
     defaultConfig {
-    applicationId = "com.nikhil.yt"
+    applicationId = "com.anmol.echofy"
         minSdk = 26
         targetSdk = 36
         versionCode = 10
